@@ -1,6 +1,6 @@
 Package: gggda
 Title: A 'ggplot2' Extension for Geometric Data Analysis
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
   person("Jason Cory", "Brunson", email = "cornelioid@gmail.com",
     role = c("aut", "cre"), comment = c(ORCID = "0000-0003-3126-9494")),
@@ -51,11 +51,11 @@ Collate: 'aaa-.r' 'aes-coord.r' 'coord-rect.r' 'depth-median.r'
         'stat-scale.r' 'stat-spantree.r' 'utils.r'
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2025-07-05 20:48:12 UTC; jasoncorybrunson
+Packaged: 2025-07-18 23:29:34 UTC; jasoncorybrunson
 Author: Jason Cory Brunson [aut, cre] (ORCID:
     <https://orcid.org/0000-0003-3126-9494>),
   Emily Paul [ctb],
   John Gracey [aut]
 Maintainer: Jason Cory Brunson <cornelioid@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-07-09 10:40:06 UTC
+Date/Publication: 2025-07-19 23:50:02 UTC
